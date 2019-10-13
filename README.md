@@ -12,12 +12,10 @@ Combinatination of the _two ways **of writing** something important_
 
 ~~money~~ life is _important_.
 
-... indented paragraphs
-... must be marked for every single line
-... ... First. This is a double indent
-... ... Second.
-No indentation
-... indentation.
+    indented paragraphs  
+    must be marked for every single line  
+      First. This is a double indent    
+       Second.  
 
 + unordered list
 + more listed
@@ -27,6 +25,6 @@ No indentation
 2. two
 3. three
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+      This is your README. READMEs are where you can communicate what your project is and how to use it.  
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
