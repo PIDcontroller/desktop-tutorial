@@ -12,12 +12,12 @@ Combinatination of the _two ways **of writing** something important_
 
 ~~money~~ life is _important_.
 
-... indented paragraphs
-... must be marked for every single line
-... ... First. This is a double indent
-... ... Second.
+...indented paragraphs
+...must be marked for every single line
+......First. This is a double indent
+... ...Second.
 No indentation
-... indentation.
+...indentation.
 
 + unordered list
 + more listed
