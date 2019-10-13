@@ -17,7 +17,6 @@ Combinatination of the _two ways **of writing** something important_
       First. This is a double indent    
        Second.  
 
-
 + unordered list
 + more listed
 + all of it was pluss signs
