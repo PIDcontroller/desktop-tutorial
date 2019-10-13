@@ -16,10 +16,7 @@ Combinatination of the _two ways **of writing** something important_
     must be marked for every single line  
       First. This is a double indent    
        Second.  
-No indentation
-     indentation2.   
-     indentation3.   
-no indent.
+
 
 + unordered list
 + more listed
@@ -28,6 +25,11 @@ no indent.
 1. ordered list item 1 minus marked - list plus marked + list
 2. two
 3. three
+
+No indentation
+     indentation2.   
+     indentation3.   
+no indent.
 
    This is your README. READMEs are where you can communicate what your project is and how to use it.  
 
