@@ -16,7 +16,7 @@ Combinatination of the _two ways **of writing** something important_
     must be marked for every single line  
       First. This is a double indent    
        Second.  
-No indentation  
+No indentation
      indentation2.   
      indentation3.   
 no indent.
@@ -29,6 +29,6 @@ no indent.
 2. two
 3. three
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+    This is your README. READMEs are where you can communicate what your project is and how to use it.  
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
