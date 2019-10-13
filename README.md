@@ -15,7 +15,7 @@ Combinatination of the _two ways **of writing** something important_
     indented paragraphs  
     must be marked for every single line  
       First. This is a double indent    
-       Second.
+       Second.  
 No indentation  
      indentation2.   
      indentation3.   
