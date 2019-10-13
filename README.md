@@ -17,8 +17,8 @@ Combinatination of the _two ways **of writing** something important_
       First. This is a double indent    
        Second.
 No indentation  
-     indentation2.  
-     indentation3.
+     indentation2.   
+     indentation3.   
 no indent.
 
 + unordered list
