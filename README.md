@@ -29,7 +29,7 @@ Combinatination of the _two ways **of writing** something important_
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 
-Part of MD document from PIDregulator
+Part of MD document from PIDcontroller
 
    another paragraph
    line
